@@ -1,0 +1,6 @@
+io.bootique.solrj.factory.SolrClientFactory
+io.bootique.solrj.factory.HttpSolrClientFactory
+io.bootique.solrj.factory.CloudSolrClientFactory
+io.bootique.solrj.factory.ConcurrentUpdateSolrClientFactory
+io.bootique.solrj.factory.EmbeddedSolrServerFactory
+io.bootique.solrj.factory.LBHttpSolrClientFactory
